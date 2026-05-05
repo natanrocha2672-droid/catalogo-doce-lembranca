@@ -1,4 +1,8 @@
-# fly.toml app configuration file generated for catalogo-doce-lembranca-xsixwa
+# fly.toml app configuration file generated for catalogo-doce-lembranca-xsixwa on 2026-05-05T10:44:23Z
+#
+# See https://fly.io/docs/reference/configuration/ for information about how to use this file.
+#
+
 app = 'catalogo-doce-lembranca-xsixwa'
 primary_region = 'gru'
 
